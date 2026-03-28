@@ -1,0 +1,36 @@
+# ==========================================
+# 🧠 AI MODELS & WEIGHTS (DO NOT PUSH)
+# GitHub will block files over 100MB.
+# ==========================================
+food_pro_model/
+food_master_model/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# ==========================================
+# 📊 HUGGING FACE TRAINER LOGS, CACHE & DATA
+# ==========================================
+runs/
+.cache/
+datasets/
+dataset/
+
+# ==========================================
+# 🐍 PYTHON & ENVIRONMENT FILES
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.conda/
+
+# ==========================================
+# 💻 OS GENERATED FILES
+# ==========================================
+.DS_Store
+Thumbs.db
