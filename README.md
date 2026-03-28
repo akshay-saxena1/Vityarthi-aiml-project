@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Key 
+## ✨ Key Features-
 
 * **🧠 Custom Fine-Tuned ViT:** Built on `google/vit-base-patch16-224-in21k` and fine-tuned on the massive 5GB **Food-101** dataset.
 * **⚡ Hardware-Optimized Pipeline:** Engineered to train efficiently on a 6GB VRAM GPU (RTX 4050) using Mixed Precision (FP16), Gradient Accumulation, and Multi-core CPU Dataloading.
