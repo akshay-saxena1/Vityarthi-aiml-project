@@ -37,7 +37,7 @@ The model underwent a highly optimized 3-epoch master training run utilizing a C
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/your-username/Food_AI_Project.git](https://github.com/your-username/Food_AI_Project.git)
+git clone https://github.com/akshay-saxena1/Vityarthi-aiml-project.git
 cd Food_AI_Project
 
 2. Install Dependencies
